@@ -50,7 +50,7 @@
 
 ---
 
-### 🐍 Contribution Snake Animation
+
 
 ### 🐍 Contribution Snake Animation
 
