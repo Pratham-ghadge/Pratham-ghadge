@@ -56,6 +56,7 @@
 <img src="https://streak-stats.demolab.com?user=pratham-ghadge&theme=tokyonight&hide_border=true&background=0D1117&border_radius=10" width="48%" />
 </p>
 
+---
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-ghadge&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=10" width="40%" />
 </p>
