@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Prathamesh+Ghadge;Full-Stack+Developer+%F0%9F%92%BB;Software+Engineer+%F0%9F%93%8C;IoT+and+Web+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
+---
 <p align="center">
   <img src="https://i.imgur.com/3ZyWcQz.gif" alt="Banner GIF" width="100%" />
 </p>
@@ -33,6 +33,15 @@
 
 ---
 
+🐍 Snake Eating My Contributation 🫨
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
+---
+
 ### 🛠️ Languages and Tools
 
 <p align="left">
@@ -51,16 +60,3 @@
 ---
 
 
-
-### 🐍 Contribution Snake Animation
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratham-ghadge/pratham-ghadge/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratham-ghadge/pratham-ghadge/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/pratham-ghadge/pratham-ghadge/output/github-contribution-grid-snake.svg" />
-</picture>
-
-
----
-
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
