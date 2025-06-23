@@ -8,16 +8,15 @@
 
 ---
 
-<h3 align="center">🚀 A Passionate Full Stack Developer and Software Engineer from India </h3>
+<h3 align="center">🚀 Passionate Full Stack Developer & Software Engineer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Redux Toolkit, Next.js, Django**
-- 💻 Check out my projects at: [**Portfolio**](https://pratham-ghadge-portfolio.vercel.app)
+- 🌱 I’m currently learning **Redux Toolkit, Next.js, and Django**
+- 💻 Explore my projects here: [**Portfolio**](https://pratham-ghadge-portfolio.vercel.app)
 - 📫 Reach me at: **prathamtech24@gmail.com**
-
 
 ### 🌐 Connect with Me
 
@@ -32,16 +31,15 @@
 
 ---
 
-🐍 Snake Eating My Contributation 🫨
+### 🐍 Snake Eating My Contribution 🫨
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,java,c,cpp,postman,bootstrap,tailwind,vue,git,vscode" />
@@ -53,15 +51,9 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=pratham-ghadge&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=10&count_private=true" width="48%" />
-<img src="https://streak-stats.demolab.com?user=pratham-ghadge&theme=tokyonight&hide_border=true&background=0D1117&border_radius=10" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=pratham-ghadge&theme=tokyonight&hide_border=true&background=0D1117&border_radius=10" width="48%" />
 </p>
 
----
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-ghadge&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=10" width="40%" />
 </p>
-
----
-
-
-
