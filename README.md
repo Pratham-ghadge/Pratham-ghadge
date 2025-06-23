@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/3ZyWcQz.gif" alt="Banner GIF" width="100%" />
+    <img src="assets/banner.png" alt="Prathamesh Ghadge Banner" width="100%" />
 </p>
 
 ---
