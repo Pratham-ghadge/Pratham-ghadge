@@ -1,18 +1,17 @@
-<!-- TOP GLOWING HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=220&section=header&text=PRATHAMESH%20GHADGE&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20%E2%80%A2%20AI%20%26%20RAG%20ENGINEER%20%E2%80%A2%20DATA%20ANALYTICS&descAlignY=62&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=220&section=header&text=PRATHAMESH%20GHADGE&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20DATA%20ANALYTICS%20ENGINEER&descAlignY=62&descAlign=50" width="100%" />
 </p>
 
-<!-- DYNAMIC TYPING SVG -->
+<!-- TYPING ANIMATION -->
 <p align="center">
   <a href="https://pratham-ghadge-portfolio.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vcenter=true&width=700&height=50&lines=%E2%9A%A1+Architecting+Scalable+Full-Stack+Systems;%F0%9F%A0+Building+RAG+%26+LangChain+AI+Pipelines;%F0%9F%93%88+Decoding+Data+into+Actionable+Insights;%F0%9F%9A%80+Node.js+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+FastAPI+%E2%80%A2+Docker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vcenter=true&width=600&height=50&lines=%E2%9A%A1+Architecting+Scalable+Web+Apps;%F0%9F%93%88+Decoding+Data+into+Actionable+Insights;%F0%9F%90%8D+Python+%E2%80%A2+React+%E2%80%A2+Data+Analytics+%E2%80%A2+Next.js" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- MAIN CUSTOM POSTER / BANNER -->
+<!-- MAIN BANNER POSTER -->
 <p align="center">
-  <img src="assets/banner.png" alt="Prathamesh Ghadge Banner" width="100%" style="border-radius:16px; box-shadow: 0 0 25px rgba(0, 242, 254, 0.4);" />
+  <img src="assets/banner.png" alt="Prathamesh Ghadge Banner" width="100%" style="border-radius:15px; box-shadow: 0 0 20px rgba(0,242,254,0.3);" />
 </p>
 
 <br />
